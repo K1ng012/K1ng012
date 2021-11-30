@@ -1,7 +1,7 @@
 ### Não faço ideia do que eu estou fazendo :D
 
 - 🔭 I’m currently working on nothing, because i'm a student so yeah...
-- 🌱 I’m currently learning all about schedule (HTML,CSS,JAVA)
+- 🌱 I’m currently learning all about programmer (HTML,CSS,JAVA)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: U are amogus
 
