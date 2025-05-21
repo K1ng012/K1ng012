@@ -10,4 +10,4 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap) (https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap)
