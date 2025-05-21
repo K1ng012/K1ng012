@@ -1,6 +1,6 @@
 ### HIII :D
 
-- 🔭 I’m currently learning all about programmer
+- 🔭 I’m currently learning all about programming
 - 😄 Pronouns: He/his
 
 <div>
